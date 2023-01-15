@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on getting a job!
+- 🌱 I’m currently learning Python and other Data Science tools
+- 👯 I’m looking to collaborate on anything related to Data Analysis/Science
+- 📫 How to reach me: gabe.franca@hotmail.com
+- ⚡ Fun fact: I study 5 hours a day every single day of the week!
+
 <!--
 **Gabiwars/Gabiwars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
