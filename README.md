@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on getting a job!
 - 🌱 I’m currently learning Python and other Data Science tools
